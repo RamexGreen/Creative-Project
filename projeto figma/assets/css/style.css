@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(#fff, #5ccbec, #11cdeece );
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+
+    & nav {
+        display: flex;
+        gap: 50px;
+    }
+
+    & lio a {
+        color: black;
+    }
+
+
+    }
+
+    main {
+        padding: 40px 80px;
+
+        & .Home {
+            display: flex;
+        }
+
+        & img {
+            width: 774.73px;
+        }
+
+
+    }
+
+
+
+
